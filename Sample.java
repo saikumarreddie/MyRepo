@@ -2,7 +2,7 @@ class Main{
 
 public static void main(String []args){
 
-System.out.println("welcome to world of GIT");
+System.out.println("This is Main class");
 
 }
 }
